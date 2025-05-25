@@ -50,7 +50,7 @@ As per the [MAL API documentation](https://myanimelist.net/apiconfig/references/
 | `start_season` | `object or null` | start_season.year, start_season.season |
 | `broadcast` | `object or null` | Broadcast date. |
 | `rating` | `string or null` |  |
-| `id` | `Array of 'AnimeStudio' objects` |  |
+| `studios` | `Array of 'AnimeStudio' objects` |  |
 
 Feel free to change the endpoint and fields in the script to pull different data, as per the API documentation.
 ## Usage/Examples
